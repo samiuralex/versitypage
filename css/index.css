@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+}
+
+.banner img{
+    width: 100%;
+    height: fit-content;
+    
+
+}
+
+.why{
+    margin: 0 auto;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.why h2{
+    text-align: center;
+    color: #196e44;
+}
+
+.why p{
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;
+    width: 80%;
+}
+
+.images1{
+    height: fit-content;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.images1 img{
+    width: 20%;
+    height: 250px;
+    border: 1px solid black;
+    margin: 2px;
+}
+
+.facdh h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #196e44;
+    font-weight: bolder;
+}
+.facd{
+    height: fit-content;
+    width: 100%;
+    margin: 0 auto;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card{
+
+    width: 500px;
+    margin: 0 auto;
+    margin: 0 20px 0 2px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    
+}
+
